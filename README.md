@@ -1,8 +1,7 @@
 # PersonalCoach
 
-
 # REST API
----
+
 # Manual
 ---
 # WorkoutTypes
