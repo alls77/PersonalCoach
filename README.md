@@ -2,7 +2,7 @@
 
 # REST API
 
-# Manual
+# Instruction
 ---
 # WorkoutTypes
 | Action | Method | Command | JSON properties required |
